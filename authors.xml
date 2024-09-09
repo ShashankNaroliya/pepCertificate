@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authors>
+  <item>
+    <name><![CDATA[हिमालखबर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[किरण नेपाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मनिष झा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विष्णु रिजाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[तुफान न्यौपाने]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कुन्द दीक्षित]]></name>
+  </item>
+  <item>
+    <name><![CDATA[वसन्त महर्जन]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रामेश्वर बोहरा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[टीकाराम राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रामु सापकोटा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शेखर खरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[पुरञ्जन आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[ज्ञानमणि नेपाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[चन्द्रकिशोर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रकाश सायमी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रज्वल काफ्ले]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सञ्जीव शर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[आशिष अधिकारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सृजना श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गगन थापा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुवासचन्द्र नेम्बाङ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शंकर तिवारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रामेश कोइराला]]></name>
+  </item>
+  <item>
+    <name><![CDATA[राधेश्याम अधिकारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा सुशील कोइराला]]></name>
+  </item>
+  <item>
+    <name><![CDATA[लेखनाथ पौड्याल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[चन्द्रकिशोर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[केदार शर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दिनकर नेपाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[पुरञ्जन आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. तीर्थबहादुर श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रदीप ज्ञवाली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मुकेश पोखरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मीना शर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[जीवनप्रसाद राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रविन गिरी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शुक्रसागर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[नीलाम्बर आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. मुकेशकुमार साह]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शरच्चन्द्र वस्ती]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रूपा जोशी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कनकमणि दीक्षित]]></name>
+  </item>
+  <item>
+    <name><![CDATA[आनन्द राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रत्यूष वन्त]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विष्णु रिमाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दिनकर नेपाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रमेश कुमार]]></name>
+  </item>
+  <item>
+    <name><![CDATA[स्मृती बस्नेत]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सोनिया अवाले]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रा. चैतन्य मिश्र]]></name>
+  </item>
+  <item>
+    <name><![CDATA[ओमआस्था राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मस्त केसी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[हृदयेश त्रिपाठी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[युवराज श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गोपाल गडतौला]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रामजी दाहाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सविना देवकोटा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अमृत गुरुङ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मिलन बगाले]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सम्पदा मल्ल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मेखराज परियार]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विनय बञ्जारा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[भैरव रिसाल ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विनय बञ्जारा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[नवीन अर्याल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[ज्ञानेन्द्र आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कल्पना भट्टराई ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दीपक ज्ञवाली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कमल रिमाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विज्ञानबाबु रेग्मी ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सेवा भट्टराई ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शरद ओझा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[उपेन्द्र पोखरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कमल मादेन]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विशाल भारद्वाज]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. शान्तराज सुवेदी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रघु पन्त ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रासस]]></name>
+  </item>
+  <item>
+    <name><![CDATA[निरञ्जन राजवंशी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शीतल काेइराला ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. अरुणा उप्रेती]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शब्द/तस्वीरः भरतबन्धु थापा ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[नम्रता शर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अजय दीक्षित ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गणेश आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[किरण चापागाईं ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुबोधराज प्याकुरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सइन्द्र राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शुष्मा  बराली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[नुनुता राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[लक्ष्मी बस्नेत]]></name>
+  </item>
+  <item>
+    <name><![CDATA[माेनिका देउपाला]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रकाश गुरागाईं]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सन्त गाहा मगर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[जीवन कार्की]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सञ्जय मित्र]]></name>
+  </item>
+  <item>
+    <name><![CDATA[बिक्रम खड्का]]></name>
+  </item>
+  <item>
+    <name><![CDATA[बिक्रम राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[भाेगीराज चाम्लिङ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दिपेश शाही]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा गणेश गुरुङ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दीपक खरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[राजु बास्कोटा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मनिष पाैडेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[बिष्णुकान्त घिमिरे]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रामेश्वर खनाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शान्ता बस्नेत दीक्षित]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. रामदेव पण्डित]]></name>
+  </item>
+  <item>
+    <name><![CDATA[ज्ञानेन्द्र विवश]]></name>
+  </item>
+  <item>
+    <name><![CDATA[राजु नेपाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. विपिन अधिकारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शिव गाउँले]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डम्बर चेम्जोङ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. नारायणप्रसाद अधिकारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सत्यमाेहन जाेशी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मधु राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[राजकुमार दिक्पाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[लारा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[उन्‍नती चौधरी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[चेतन अधिकारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दिया रिजाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[राकेशप्रसाद चौधरी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[यज्ञराज थापा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अच्युतराज भण्डारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सिकुमा राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रामकुमार शाही]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रेमनारायण भुसाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[करुण देवान]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मनीषा गाैचन]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विनय शेखर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रमेशनाथ पाण्डे]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रदीप गिरि]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कमल दीक्षित]]></name>
+  </item>
+  <item>
+    <name><![CDATA[किरण नेपाल/रामेश्वर बाेहरा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[बिनु पोखरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[लक्ष्मी भण्डारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[हर्षमान महर्जन]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कशिशदास श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[जिवेश झा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[किरण नेपाल/तुफान न्याैपाने]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दीपेन्द्र झा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. रेणु अधिकारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. महेशराज पन्त]]></name>
+  </item>
+  <item>
+    <name><![CDATA[नयराज पन्त]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुशील प्याकुरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुजित मैनाली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. नयनाथ पाैडेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[काशीनाथ तमोट ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विनोदकुमार पौडेल र राजेन्द्र सेन्चुरी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गोविन्द न्यौपाने]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रामेश्वर बाेहरा/तुफान न्याैपाने]]></name>
+  </item>
+  <item>
+    <name><![CDATA[नवराज महतारा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सरोज कार्की र सूचना आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[निकोला पोलिट]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मनुजबाबु मिश्र]]></name>
+  </item>
+  <item>
+    <name><![CDATA[जीवनचन्द्र काेइराला]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शिवहरि ज्ञवाली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दीपक अर्याल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अजपा शर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गोविन्द न्यौपाने/विमल ज्ञवाली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रिंकु वाग्ले]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अशाेक थारु]]></name>
+  </item>
+  <item>
+    <name><![CDATA[एकराज सिग्देल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. मधुर बस्नेत ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. मित्र पाठक]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मनिषा कोइराला]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गोपीनाथ मैनाली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रा. कृष्ण पोखरेल ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[साेनिया अवाले]]></name>
+  </item>
+  <item>
+    <name><![CDATA[चन्द्रजंग हमाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शिशिर खनाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[भूमि घिमिरे]]></name>
+  </item>
+  <item>
+    <name><![CDATA[घनश्याम गुरुङ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अनूप सुवेदी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[श्रीभक्त खनाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[किशोर थापा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सत्यनारायण मण्डल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[संघर्ष पन्त]]></name>
+  </item>
+  <item>
+    <name><![CDATA[स्वेच्छा  श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[लाल शंकर घिमिरे]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गाेकर्ण अवस्थी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुरेन्द्र पाण्डे]]></name>
+  </item>
+  <item>
+    <name><![CDATA[राजेन्द्र पराजुली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. गंगालाल तुलाधर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[बुद्ध बस्न्यात]]></name>
+  </item>
+  <item>
+    <name><![CDATA[बाबुराम गोपाली (यादव) र डीबी नेपाली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डम्बरकृष्ण श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[भीम रावल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मात्रिका यादव]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विश्व पौडेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[लक्ष्मण लावती]]></name>
+  </item>
+  <item>
+    <name><![CDATA[जुद्धबहादुर गुरुङ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. राम कन्दङ्वा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[आरजु]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सजना बराल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[राकेशप्रसाद चौधरी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कृष्ण अधिकारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[एकराज सिग्देल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अरविन्द रिमाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[महेशराज पन्त]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अमित मचामसी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[धनकुमारी सुनार]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डा. गोकर्णजंग थापा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अनिता भेटवाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मोहन मैनाली ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मधु आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अलिशा सिजापति]]></name>
+  </item>
+  <item>
+    <name><![CDATA[ध्रुब बस्नेत]]></name>
+  </item>
+  <item>
+    <name><![CDATA[भानुभक्त आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मोनिका देउपाला]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गौतमवज्र वज्राचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुवास देवकोटा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विकास संग्रौला]]></name>
+  </item>
+  <item>
+    <name><![CDATA[पूर्ण पी राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[तुलसीराम खरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[जगत नेपाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[यमबहादुर दुरा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गोपाल दाहाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[राजकिशोर रजक]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दीप श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सरिता दाहाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रमेश केसी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गणेश खनिया]]></name>
+  </item>
+  <item>
+    <name><![CDATA[बच्चु विक]]></name>
+  </item>
+  <item>
+    <name><![CDATA[वसन्त थापा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[कृष्णप्रसाद भुसाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[यज्ञश]]></name>
+  </item>
+  <item>
+    <name><![CDATA[वीरेन्द्र रमण]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दमन राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[स्मिता मगर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[इन्द्र श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[नारद काेहार]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सागर बुढाथोकी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सरला गौतम]]></name>
+  </item>
+  <item>
+    <name><![CDATA[यम घिमिरे]]></name>
+  </item>
+  <item>
+    <name><![CDATA[विपिन अधिकारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[हरि शर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[महेश्वर आचार्य]]></name>
+  </item>
+  <item>
+    <name><![CDATA[हिमनाथ देवकोटा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अनिता श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सविता श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सहिना श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[ध्रुव भट्टराई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुशीला बुढाथोकी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गोविन्दराज पोखरेल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[हेमन्त मल्ल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[नयनराज पाण्डे]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अनेका रेबेका राजभण्डारी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रकाश सिंह]]></name>
+  </item>
+  <item>
+    <name><![CDATA[धनबहादुर फागो]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मीनेन्द्र रिजाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सन्तोष दहित]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सञ्जय रानाभाट]]></name>
+  </item>
+  <item>
+    <name><![CDATA[डुक्पा छिरिङ मोक्तान]]></name>
+  </item>
+  <item>
+    <name><![CDATA[देविका घर्ती मगर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[चित्रबहादुर चौधरी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अर्जुन ढकाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[हिमालखबर सम्पादकीय]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुमन नेपाली]]></name>
+  </item>
+  <item>
+    <name><![CDATA[मनबहादुर बस्नेत]]></name>
+  </item>
+  <item>
+    <name><![CDATA[गोपेन राई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रतिमा सिलवाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[जीवराज चालिसे]]></name>
+  </item>
+  <item>
+    <name><![CDATA[दुर्गा राना मगर]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुरेश ढकाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सम्झना विक]]></name>
+  </item>
+  <item>
+    <name><![CDATA[प्रभाकर गौतम]]></name>
+  </item>
+  <item>
+    <name><![CDATA[भद्र शर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[लक्ष्मण श्रेष्ठ]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सुजाता ढुंगाना]]></name>
+  </item>
+  <item>
+    <name><![CDATA[रमेश भुसाल]]></name>
+  </item>
+  <item>
+    <name><![CDATA[असीम तिमल्सिना]]></name>
+  </item>
+  <item>
+    <name><![CDATA[भिक्टर प्रधान]]></name>
+  </item>
+  <item>
+    <name><![CDATA[पिंकी श्रीस राना]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सञ्जीव शर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अर्चना दर्जी]]></name>
+  </item>
+  <item>
+    <name><![CDATA[धनु विश्वकर्मा]]></name>
+  </item>
+  <item>
+    <name><![CDATA[शमशाद अहमद]]></name>
+  </item>
+  <item>
+    <name><![CDATA[उर्मिला गम्वा थारू]]></name>
+  </item>
+  <item>
+    <name><![CDATA[अस्मिता खड्का]]></name>
+  </item>
+  <item>
+    <name><![CDATA[देवेन्द्र भट्टराई]]></name>
+  </item>
+  <item>
+    <name><![CDATA[सोहन श्रेष्ठ]]></name>
+  </item>
+</authors>
